@@ -1,3 +1,9 @@
+<img width="1366" height="864" alt="Screenshot 2026-07-31 at 12 35 44 am" src="https://github.com/user-attachments/assets/89722cd4-db8a-4ba4-82fb-7d650b8d5eb7" />
+<img width="632" height="519" alt="Screenshot 2026-07-31 at 12 36 42 am" src="https://github.com/user-attachments/assets/dd3c10c9-4d04-4065-bcdb-eeb9e6b23997" />
+<img width="592" height="393" alt="Screenshot 2026-07-31 at 12 37 22 am" src="https://github.com/user-attachments/assets/967360e0-9fc0-4f6e-be46-be285968bdf1" />
+<img width="587" height="394" alt="Screenshot 2026-07-31 at 12 38 58 am" src="https://github.com/user-attachments/assets/59e9ee2d-c20c-4c2e-a919-191f4ef35c5d" />
+
+
 # 🛡️ gtwyguard
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
