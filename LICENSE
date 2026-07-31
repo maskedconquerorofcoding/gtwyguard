@@ -1,0 +1,22 @@
+# gtwyguard Non-Commercial Source License (PolyForm Noncommercial 1.0.0 with Attribution)
+
+Copyright (c) 2026 Jedidiah Roberts. All rights reserved.
+
+---
+
+### 1. Attribution & Credit
+You must give full credit and attribution to the original author (**Jedidiah Roberts**) and include a link to the original `gtwyguard` repository in all copies or substantial portions of the software.
+
+### 2. Non-Commercial Use Only
+You are granted permission to inspect, copy, use, modify, and distribute this software **solely for non-commercial purposes**. You may **NOT** sell, license, monetize, or charge any fees for:
+- Direct copies of this software
+- Software bundles containing this software
+- Hosted services, APIs, or products derived directly from this software
+
+### 3. Modifications, Custom Versions & Derivative Copyrights
+- You are free to modify, extend, and adapt this software to create custom versions.
+- If your modified version includes original work that is substantially different from this software, you may claim copyright over **your additions and modifications**, while preserving the original copyright notice for the underlying `gtwyguard` components.
+- Derivative works remain bound by the attribution and non-commercial requirements unless explicit commercial licensing permission is granted by Jedidiah Roberts.
+
+### 4. Disclaimer of Warranty
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES.
