@@ -3,6 +3,7 @@ from rich.table import Table
 from rich.panel import Panel
 from rich.text import Text
 from rich.style import Style
+from rich.markup import escape
 from typing import List
 from gtwyguard.scanner import ScanResult, Severity
 
@@ -65,17 +66,17 @@ def render_scan_report(results: List[ScanResult], target_name: str, file_id: str
     for res in results:
         for f in res.findings:
             badge_color = SEVERITY_COLORS.get(f.severity, "white")
-            sev_badge = f"[{badge_color}] {SEVERITY_EMOJIS.get(f.severity, '')} {f.severity} [/{badge_color}]"
+            sev_badge = f"[{badge_color}] {SEVERITY_EMOJIS.get(f.severity, '')} {f.severity} [/]"
             
-            # Format snippet details
-            detail_text = f"[bold yellow]File:[/bold yellow] {res.file_path}\n"
-            detail_text += f"[bold red]Matched:[/bold red] '{f.matched_text}'\n"
-            detail_text += f"[bold white]Context:[/bold white] {f.line_content}\n"
-            detail_text += f"[dim cyan]Risk:[/dim cyan] {f.description}"
+            # Format snippet details with escaping to prevent markup syntax errors
+            detail_text = f"[bold yellow]File:[/bold yellow] {escape(res.file_path)}\n"
+            detail_text += f"[bold red]Matched:[/bold red] '{escape(f.matched_text)}'\n"
+            detail_text += f"[bold white]Context:[/bold white] {escape(f.line_content)}\n"
+            detail_text += f"[dim cyan]Risk:[/dim cyan] {escape(f.description)}"
 
             table.add_row(
                 str(f.line_number),
-                f.pattern_name,
+                escape(f.pattern_name),
                 sev_badge,
                 detail_text
             )
