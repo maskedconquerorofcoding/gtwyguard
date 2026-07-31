@@ -48,6 +48,7 @@ venv.bak/
 *.swo
 
 # Testing / Coverage
+tests/
 .pytest_cache/
 .coverage
 htmlcov/
