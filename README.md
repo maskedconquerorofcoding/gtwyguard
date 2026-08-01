@@ -80,7 +80,11 @@ python -m unittest discover tests
 ```
 
 ---
+## ⬇️🔄 How to Install
 
+Run this command:  `curl -sSL https://raw.githubusercontent.com/maskedconquerorofcoding/gtwyguard/main/bootstrap.sh | bash`
+
+---
 ## 📄 License & Attribution
 
 This project is created by **Jedidiah Roberts** and licensed under the **PolyForm Noncommercial 1.0.0 License with Attribution** (see [LICENSE](LICENSE)).
