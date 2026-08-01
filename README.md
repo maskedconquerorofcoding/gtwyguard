@@ -38,7 +38,7 @@
 Clone the repository and install in editable mode:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/gtwyguard.git
+git clone https://github.com/maskedconquerorofcoding/gtwyguard.git
 cd gtwyguard
 pip install -e .
 ```
