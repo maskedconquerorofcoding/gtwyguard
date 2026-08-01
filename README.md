@@ -1,8 +1,15 @@
-<img width="1366" height="864" alt="Screenshot 2026-07-31 at 12 35 44 am" src="https://github.com/user-attachments/assets/89722cd4-db8a-4ba4-82fb-7d650b8d5eb7" />
-<img width="632" height="519" alt="Screenshot 2026-07-31 at 12 36 42 am" src="https://github.com/user-attachments/assets/dd3c10c9-4d04-4065-bcdb-eeb9e6b23997" />
-<img width="592" height="393" alt="Screenshot 2026-07-31 at 12 37 22 am" src="https://github.com/user-attachments/assets/967360e0-9fc0-4f6e-be46-be285968bdf1" />
-<img width="587" height="394" alt="Screenshot 2026-07-31 at 12 38 58 am" src="https://github.com/user-attachments/assets/59e9ee2d-c20c-4c2e-a919-191f4ef35c5d" />
 
+<img width="601" height="388" alt="Screenshot 2026-08-01 at 12 53 27 pm" src="https://github.com/user-attachments/assets/ab231a30-8bec-4d50-be44-8ee574495cd9" />
+<img width="597" height="390" alt="Screenshot 2026-08-01 at 12 21 36 pm" src="https://github.com/user-attachments/assets/1d10cc7a-4095-47ae-8cc3-fe4a2f4003d8" />
+<img width="605" height="393" alt="Screenshot 2026-08-01 at 12 21 01 pm" src="https://github.com/user-attachments/assets/60c07385-31f5-4e2f-b10c-caadf4cad584" />
+<img width="598" height="390" alt="Screenshot 2026-08-01 at 12 21 21 pm" src="https://github.com/user-attachments/assets/477f1534-781f-499c-9728-b741e7343cb7" />
+
+---
+
+<img width="954" height="682" alt="Screenshot 2026-07-31 at 12 36 07 am" src="https://github.com/user-attachments/assets/c3a8986c-cadc-44ff-9c49-ed93b9515acb" />
+<img width="632" height="519" alt="Screenshot 2026-07-31 at 12 36 42 am" src="https://github.com/user-attachments/assets/abbeaad3-4d36-4b92-9ae6-70a21b8dff58" />
+<img width="592" height="393" alt="Screenshot 2026-07-31 at 12 37 22 am" src="https://github.com/user-attachments/assets/56b170a9-785c-42ab-9952-67e870660a1a" />
+<img width="587" height="391" alt="Screenshot 2026-07-31 at 12 38 24 am" src="https://github.com/user-attachments/assets/c1778e06-bf19-49ef-b599-ac7c778b247d" />
 
 # 🛡️ gtwyguard
 
